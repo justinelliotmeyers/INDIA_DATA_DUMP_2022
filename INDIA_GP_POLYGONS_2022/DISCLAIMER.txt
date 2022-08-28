@@ -1,0 +1,3 @@
+Gram Panchayat boundaries are: (A). Indicative only, and (B). Gram Manchitra Application shall not be liable for any errors, omissions, or other defects in, delay or interruption in such data, or for any action taken in reliance thereon. Neither Ministry of Panchayat Raj nor NIC will be liable for any damages relating to use of data provided herein.
+
+Site is designed, hosted and maintained by National Informatics Centre. Contents on this website are owned, updated and managed by the Panchayats and State Panchayati Raj Department as a part of e-Panchayat MMP of Ministry of Panchayati Raj. Other GIS data layers are managed by related Ministries
